@@ -4,7 +4,7 @@ from allergy attacks by providing detailed information about food allergens. It 
 making it easier for users to identify potential allergens.
 
 ## Website
-https://weathergotchi.fun/
+[https://selim.fun/](https://selim.fun/)
 
 ### Features
 - Allergen Search: Users can search for common allergens and select the ones they are allergic to.
